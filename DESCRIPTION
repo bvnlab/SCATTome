@@ -1,9 +1,9 @@
-Package: FluidgmR
+Package: SCATTome
 Type: Package
-Title: FluidgmR
+Title: SCATTome
 Version: 1.0
 Date: 2015-11-24
-Author: Ujjal Kumar Mukherjee, Amit Kumar Mitra
-Maintainer: Ujjal Kumar Mukherjee <ukm@illinois.edu>
-Description: This package is a complete set of functions that organizes Fluidgm data and computes prediction of drug response based on an ensemble of machine learning techniques. It also accounts for missing observations and whenever feasible automatically imputes missing data using 100 random runs of the expectation maximization algorithm.
+Authors: Amit Kumar Mitra, Ujjal Kumar Mukherjee, Brian Van Ness
+Maintainers: bvnlab <mitra008@umn.edu>, Ujjal Kumar Mukherjee <ukm@illinois.edu>
+Description: This package is a complete set of functions that organizes Fluidgm data and computes prediction of drug response based on a combination of machine learning techniques. It also accounts for missing observations and whenever feasible automatically imputes missing data using 100 random runs of the expectation maximization algorithm.
 License: GPL-3
