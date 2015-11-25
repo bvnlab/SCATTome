@@ -6,7 +6,7 @@
 SCATTome
 }
 \description{
-This package is a complete set of functions that organizes Fluidgm data and computes prediction of drug response based on an ensemble of machine learning techniques. It also accounts for missing observations and whenever feasible automatically imputes missing data using 100 random runs of the expectation maximization algorithm.
+This package is a complete set of functions that organizes Fluidigm targeted transcriptome data and computes prediction of drug response of single-cells based on an ensemble of machine learning techniques. It also accounts for missing observations and whenever feasible automatically imputes missing data using 100 random runs of the expectation maximization algorithm.
 
 }
 \details{
