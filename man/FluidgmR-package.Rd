@@ -18,7 +18,7 @@ The DESCRIPTION file:
 ~~ functions ~~
 }
 \author{
-Author: \packageAuthor{Ujjal Kumar Mukherjee, Amit Kumar Mitra}
+\packageAuthor{Ujjal Kumar Mukherjee, Amit Kumar Mitra}
 
 Maintainer: \packageMaintainer{Ujjal Kumar Mukherjee (ukm@illinois.edu)}
 }
