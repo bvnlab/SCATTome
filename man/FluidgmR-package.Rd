@@ -1,9 +1,9 @@
-\name{FluidgmR-package}
-\alias{FluidgmR-package}
-\alias{FluidgmR}
+\name{SCATTome-package}
+\alias{SCATTome-package}
+\alias{SCATTome}
 \docType{package}
 \title{
-FluidgmR
+SCATTome
 }
 \description{
 This package is a complete set of functions that organizes Fluidgm data and computes prediction of drug response based on an ensemble of machine learning techniques. It also accounts for missing observations and whenever feasible automatically imputes missing data using 100 random runs of the expectation maximization algorithm.
@@ -12,15 +12,15 @@ This package is a complete set of functions that organizes Fluidgm data and comp
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{FluidgmR}
-\packageIndices{FluidgmR}
+\packageDESCRIPTION{SCATTome}
+\packageIndices{SCATTome}
 ~~ An overview of how to use the package, including the most important ~~
 ~~ functions ~~
 }
 \author{
-\packageAuthor{Ujjal Kumar Mukherjee, Amit Kumar Mitra}
+\packageAuthor{Amit Kumar Mitra, Ujjal Kumar Mukherjee, Brian Van Ness}
 
-Maintainer: \packageMaintainer{Ujjal Kumar Mukherjee (ukm@illinois.edu)}
+Maintainer: \packageMaintainer{Ujjal Kumar Mukherjee (ukm@illinois.edu), bvnlab (mitra008@umn.edu)}
 }
 \references{
 ~~ Literature or other references for background information ~~
