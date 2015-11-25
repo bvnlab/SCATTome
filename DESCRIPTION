@@ -3,7 +3,7 @@ Type: Package
 Title: SCATTome
 Version: 1.0
 Date: 2015-11-24
-Author: Amit Kumar Mitra, Ujjal Kumar Mukherjee, Brian G Van Ness
+Author: Amit Kumar Mitra, Ujjal Kumar Mukherjee, Brian Van Ness
 Maintainer: Ujjal Kumar Mukherjee <ukm@illinois.edu>, bvnlab <mitra008@umn.edu>
 Description: This package is a complete set of functions that organizes Fluidigm targeted transcriptome data and computes prediction of drug response of single-cells based on an ensemble of machine learning techniques. It also accounts for missing observations and whenever feasible automatically imputes missing data using 100 random runs of the expectation maximization algorithm.
 License: GPL-3
