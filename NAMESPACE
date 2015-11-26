@@ -1,2 +1,2 @@
 exportPattern("^[[:alpha:]]+")
-import(e1071, randomForest)
+import(e1071, randomForest, Amelia, glmnet)
